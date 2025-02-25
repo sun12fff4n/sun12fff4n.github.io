@@ -1,11 +1,5 @@
-[Yfsty|Neko Blog](https://sun12fff.github.io)
+[Yftsy｜Neko Blog](https://sun12fff.github.io)
 
+## Credits
 
-License
--------
-
-Apache License 2.0.
-Copyright (c) 2015-present Huxpro
-
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
-Copyright (c) 2013-2016 Blackrock Digital LLC.
+This blog is built using the elegant template designed by [Hux](https://github.com/Huxpro/huxpro.github.io), which is derived from the [Clean Blog Jekyll Theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/).
