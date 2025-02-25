@@ -1,4 +1,4 @@
-[Yftsy｜Neko Blog](https://sun12fff.github.io)
+[Yftsy｜Neko Blog](https://sun12fff4n.github.io)
 
 ## Credits
 
